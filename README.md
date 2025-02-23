@@ -6,7 +6,7 @@ This repository showcases two deep learning challenges tackled as part of the AN
 
 1. **Blood Cell Classification** 🩸  
    The goal of this challenge was to classify blood cell images into 8 distinct categories: Basophil, Eosinophil, Erythroblast, Immature Granulocytes, Lymphocyte, Monocyte, Neutrophil, and Platelet. We experimented with different deep learning approaches, including CNNs and transfer learning, to achieve high classification accuracy. Techniques such as data augmentation and regularization were applied to improve generalization.
-   - [Project Folder](./blood-cell-classification/)
+   - [Project Folder](./Challenge1: Blood Cell Image Classification/)
 
 📊 **Final Results**
 ConvNeXt: 77% accuracy on Codabench.
