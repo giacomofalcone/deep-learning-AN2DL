@@ -34,5 +34,5 @@ deep-learning-projects/
 ```
 
 ## 👥 Authors
-**Sara Jo Agostino, Andrea Faccioli, Giacomo Falcone**
+**Sara Jo Agostino, Andrea Faccioli [@faccioliandrea](https://github.com/faccioliandrea), Giacomo Falcone [@giacomofalcone](https://github.com/giacomofalcone)**
 
