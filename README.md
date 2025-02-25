@@ -6,7 +6,7 @@ This repository showcases two deep learning challenges tackled as part of the AN
 
 1. **Blood Cell Classification** 🩸  
    The goal of this challenge was to classify blood cell images into 8 distinct categories: Basophil, Eosinophil, Erythroblast, Immature Granulocytes, Lymphocyte, Monocyte, Neutrophil, and Platelet. We experimented with different deep learning approaches, including CNNs and transfer learning, to achieve high classification accuracy. Techniques such as data augmentation and regularization were applied to improve generalization.
-   - [Project Folder](./Challenge1: Blood Cell Image Classification/)
+   - [Project Folder](https://github.com/giacomofalcone/deep-learning-AN2DL/tree/main/Challenge1%3A%20Blood%20Cell%20Image%20Classification)
 
 📊 **Final Results**
 ConvNeXt: 77% accuracy on Codabench.
@@ -15,7 +15,7 @@ ConvNeXt: 77% accuracy on Codabench.
 
 2. **Mars Terrain Segmentation** 🪐  
    This challenge involved segmenting Martian terrain images into five categories: Background, Soil, Bedrock, Sand, and Big Rock. A U-Net-based architecture was employed, incorporating data augmentation strategies and weighted loss functions to handle class imbalance. Various enhancements, including CutMix augmentation and improved bottleneck strategies, were tested to refine segmentation accuracy.
-   - [Project Folder](./mars-terrain-segmentation/)
+   - [Project Folder](https://github.com/giacomofalcone/deep-learning-AN2DL/tree/main/Challenge2%3A%20Mars%20Terrain%20Semantic%20Segmentation)
 
 📊 **Results**
 
