@@ -9,7 +9,7 @@ This repository showcases two deep learning challenges tackled as part of the AN
    - [Project Folder](https://github.com/giacomofalcone/deep-learning-AN2DL/tree/main/Challenge1%3A%20Blood%20Cell%20Image%20Classification)
 
    📊 **Final Results**
-   ConvNeXt: 77% accuracy on Codabench.
+   ConvNeXt: 77% accuracy on the test set on Codabench.
 
    ✅ Score: 5.5/5.5
 
@@ -17,7 +17,8 @@ This repository showcases two deep learning challenges tackled as part of the AN
    This challenge involved segmenting Martian terrain images into five categories: Background, Soil, Bedrock, Sand, and Big Rock. A U-Net-based architecture was employed, incorporating data augmentation strategies and weighted loss functions to handle class imbalance. Various enhancements, including CutMix augmentation and improved bottleneck strategies, were tested to refine segmentation accuracy.
    - [Project Folder](https://github.com/giacomofalcone/deep-learning-AN2DL/tree/main/Challenge2%3A%20Mars%20Terrain%20Semantic%20Segmentation)
 
-   📊 **Results**
+   📊 **Final Results**
+   Final U-Net: Mean IoU on the test set - 73.22%
 
    ✅ Score: 5.5/5.5
 
