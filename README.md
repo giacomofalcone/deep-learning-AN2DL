@@ -24,12 +24,12 @@ ConvNeXt: 77% accuracy on Codabench.
 ## 📂 Repository Structure
 ```
 deep-learning-projects/
-│── blood-cell-classification/
-│   ├── notebooks/
-│   ├── report.pdf
-│── mars-terrain-segmentation/
-│   ├── notebooks/
-│   ├── report.pdf
+│── Challenge1: Blood Cell Image Classification/
+│   ├── Notebooks/
+│   ├── AN2DLreport1.pdf
+│── Challenge2: Mars Terrain Semantic Segmentation/
+│   ├── Notebooks/
+│   ├── AN2DLreport2.pdf
 │── README.md
 ```
 
